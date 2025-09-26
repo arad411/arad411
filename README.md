@@ -7,18 +7,18 @@ Here you’ll find my projects, experiments, and random ideas.
 ---
 
 ## 🖥️ Languages I Use
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![C#](https://img.shields.io/badge/Code-C%23-purple?logo=csharp)
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
 ## 🌍 Contact Me
-[![GitHub](https://img.shields.io/badge/GitHub-arad411-black?logo=github)](https://github.com/arad411)
-[![TikTok](https://img.shields.io/badge/TikTok-Profile-black?logo=tiktok)]([YOUR_TIKTOK_LINK_HERE](https://www.tiktok.com/@sudoarad411?_t=ZS-903OjiOwjvM&_r=1))
-**Discord:** `arad1#8683`)
+[![GitHub](https://img.shields.io/badge/GitHub-arad411-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arad411)
+![Discord](https://img.shields.io/badge/Discord-arad1%238683-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![TikTok](https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sudoarad411?_t=ZS-903OjiOwjvM&_r=1)
 
 ---
 
