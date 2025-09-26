@@ -1,6 +1,6 @@
 <p align="center">
 
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/e2ba4324-be81-40a2-bc3f-aa9bff873f05"/>
+<img width="100%" height="30%" alt="image" src="https://github.com/user-attachments/assets/e2ba4324-be81-40a2-bc3f-aa9bff873f05"/>
 
 # Hello, my name is arad👋
 
