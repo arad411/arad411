@@ -1,6 +1,6 @@
 <p align="center">
 
-![banner](https://img.shields.io/badge/Chill-Tropical-FF6B6B?style=for-the-badge&logoColor=white)
+<img src="https://via.placeholder.com/1200x200/FF6B6B/FFD93D/6BCB77/4D96FF?text=+" width="100%" />
 
 # Hello, my name is arad👋
 
