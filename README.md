@@ -1,3 +1,5 @@
+<p align="center">
+
 # Hello, my name is arad👋
 
 ## 🚀 About Me
@@ -21,6 +23,4 @@ Here you’ll find my projects, experiments, and random ideas.
 [![arad1#8683](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sudoarad411?_t=ZS-903OjiOwjvM&_r=1)
 
----
-
-⭐️ Don’t forget to check out my pinned projects!
+</p>
