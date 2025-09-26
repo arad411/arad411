@@ -18,7 +18,7 @@ Here you’ll find my projects, experiments, and random ideas.
 ## 🌍 Contact Me
 [![GitHub](https://img.shields.io/badge/GitHub-arad411-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arad411)
 ![Discord](https://img.shields.io/badge/Discord-arad1%238683-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-[![TikTok](https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sudoarad411?_t=ZS-903OjiOwjvM&_r=1)
+[![TikTok](https://img.shields.io/badge/TikTok-sudoarad411-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sudoarad411?_t=ZS-903OjiOwjvM&_r=1)
 
 ---
 
