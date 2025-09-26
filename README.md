@@ -1,6 +1,6 @@
 <p align="center">
 
-![banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=26b1ed&background=ac0dd4,c457fa&center=true&width=1200&height=200&lines=+)
+<img src="github_background.png" width="100%" />
 
 # Hello, my name is arad👋
 
