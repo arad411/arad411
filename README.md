@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/arad411/images/main/tropical1.png" width="100%" />
+![banner](https://img.shields.io/badge/Chill-Tropical-FF6B6B?style=for-the-badge&logoColor=white)
 
 # Hello, my name is arad👋
 
