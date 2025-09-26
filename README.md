@@ -17,7 +17,7 @@ Here you’ll find my projects, experiments, and random ideas.
 
 ## 🌍 Contact Me
 [![GitHub](https://img.shields.io/badge/GitHub-arad411-black?logo=github)](https://github.com/arad411)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Me-5865F2?logo=discord&logoColor=white)](arad1#8683)
+**Discord:** `arad1#8683`)
 [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?logo=tiktok)]([YOUR_TIKTOK_LINK_HERE](https://www.tiktok.com/@sudoarad411?_t=ZS-903OjiOwjvM&_r=1))
 
 ---
