@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="github_background.png" width="1200px" height="200" />
+<img src="github_background.png" width="1500" height="200" />
 
 # Hello, my name is arad👋
 
