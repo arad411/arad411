@@ -1,5 +1,7 @@
 <p align="center">
 
+![banner](https://camo.githubusercontent.com/fake-example/68747470733a2f2fimg.shields.io/badge/Chill%20Vibes-%23FF7E5F%20to%20%2300F260?style=for-the-badge)
+
 # Hello, my name is arad👋
 
 ## 🚀 About Me
