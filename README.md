@@ -1,6 +1,6 @@
 <p align="center">
 
-![Chill Gradient](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=ffffff&background=26b1ed,ac0dd4,c457fa&center=true&width=1200&height=100&lines=+)
+<img src="github_background.png" width="100%" height="100" />
 
 # Hello, my name is arad👋
 
