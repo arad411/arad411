@@ -5,12 +5,12 @@
 # Hello, my name is arad👋
 
 ## 🚀 About Me
-Highschool student who loves building fun and stuff.
+Highschool student who loves building fun and random stuff.
 Here you’ll find my projects, experiments, and random ideas.
 
 ---
 
-## 🖥️ Languages I Use
+## 🖥️ Languages I Know
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
